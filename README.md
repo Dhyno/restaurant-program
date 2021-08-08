@@ -1,5 +1,5 @@
 # restaurant-program
-restaurant program CLI.\
+restaurant program CLI with c++\
 based database on txt file, this program include:\
 \
 1.log in, signup, setting account\
